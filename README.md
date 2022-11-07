@@ -1,16 +1,13 @@
 # dev_primate_resume_app
 
-A new Flutter project.
+My resume app is my  responsive portfolio built with flutter using dart language. 
+I got my dsesign inspiration from various platfoms including dribble, and watched many youtube tutorials
+ if i had more time i would like to patiently add more work experience and recommendations from colleagues
+ Here is a link to testrun the app  https://appetize.io/app/fffyyp5mbkfsqt5y4bxwjxkgca
+ 
+ Flutters new upgrade messed up my gradle configurations and i get this error
+ adb: failed to install C:\Users\FEBI BRAINBOX\AndroidStudioProjects\dev_primate_resume_app\build\app\outputs\flutter-apk\app.apk: Failure [INSTALL_FAILED_OLDER_SDK: Requires newer sdk version #33 (current version is #31....... I was able to eventually solve the issue
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
